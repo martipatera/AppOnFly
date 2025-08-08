@@ -1,0 +1,8 @@
+Stripe je zdroj pravdy
+
+Stripe = Customer Email, virtualMachineId
+Firebase = virtualMachineId
+VMC = virtualMachineId, Name
+Hyper-V = Name
+Hyper-V složky = Name
+Zabbix = Name
